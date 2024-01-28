@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.task_manager.app-mergeDebugResources-9:/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\anton\\.gradle\\caches\\transforms-3\\4e6b31aba0585c520842e6803b7d6bb9\\transformed\\core-1.6.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:2:5-32:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anton\.gradle\caches\transforms-3\7f02e798db2078c1c72a9a813135516d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anton\.gradle\caches\transforms-3\7f02e798db2078c1c72a9a813135516d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:sqflite] C:\Users\anton\AndroidStudioProjects\task_manager\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\fc09ec26dcb7ffbec2f1328d8eb6f285\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\anton\.gradle\caches\transforms-3\36d725781ea705ff73ea72686314b574\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\ae67d797c257625ab78d11daf624993f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\548acee485888f45df12fa071c1cdb1c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\83830b06808d0b86a1f6b9c2e2ab0cdc\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\c0915f7fcc57cfdba31b8690d1f05574\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\anton\.gradle\caches\transforms-3\104607f6e4e165a34ae652113bed4124\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\005c2902231a16d4f4cc843314dad2a9\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\1ece9159146219485e275c1da91192f7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\80b71203247512460c173812f166e073\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\5e1dbfcad84c228ea04c3098ef44b4d4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\61694fa7a4399957435e6a56ec0cf327\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anton\.gradle\caches\transforms-3\7f02e798db2078c1c72a9a813135516d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\anton\.gradle\caches\transforms-3\86e3b4e0c1bb7c688eed3e031038b317\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\anton\.gradle\caches\transforms-3\8dc37d6bf4d8e19301fb3504251c1dc2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:38:5-43:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:39:9-42:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:40:13-72
+	android:name
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:40:21-70
+data
+ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:41:13-50
+	android:mimeType
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml:41:19-48
+uses-sdk
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+MERGED from [:sqflite] C:\Users\anton\AndroidStudioProjects\task_manager\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\anton\AndroidStudioProjects\task_manager\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\fc09ec26dcb7ffbec2f1328d8eb6f285\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\fc09ec26dcb7ffbec2f1328d8eb6f285\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\anton\.gradle\caches\transforms-3\36d725781ea705ff73ea72686314b574\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\anton\.gradle\caches\transforms-3\36d725781ea705ff73ea72686314b574\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\ae67d797c257625ab78d11daf624993f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\ae67d797c257625ab78d11daf624993f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\548acee485888f45df12fa071c1cdb1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\548acee485888f45df12fa071c1cdb1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\83830b06808d0b86a1f6b9c2e2ab0cdc\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\83830b06808d0b86a1f6b9c2e2ab0cdc\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\c0915f7fcc57cfdba31b8690d1f05574\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\c0915f7fcc57cfdba31b8690d1f05574\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\anton\.gradle\caches\transforms-3\104607f6e4e165a34ae652113bed4124\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\anton\.gradle\caches\transforms-3\104607f6e4e165a34ae652113bed4124\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\005c2902231a16d4f4cc843314dad2a9\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\005c2902231a16d4f4cc843314dad2a9\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\1ece9159146219485e275c1da91192f7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\1ece9159146219485e275c1da91192f7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\80b71203247512460c173812f166e073\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\80b71203247512460c173812f166e073\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\5e1dbfcad84c228ea04c3098ef44b4d4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\5e1dbfcad84c228ea04c3098ef44b4d4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\61694fa7a4399957435e6a56ec0cf327\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\anton\.gradle\caches\transforms-3\61694fa7a4399957435e6a56ec0cf327\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anton\.gradle\caches\transforms-3\7f02e798db2078c1c72a9a813135516d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\anton\.gradle\caches\transforms-3\7f02e798db2078c1c72a9a813135516d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\anton\.gradle\caches\transforms-3\86e3b4e0c1bb7c688eed3e031038b317\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\anton\.gradle\caches\transforms-3\86e3b4e0c1bb7c688eed3e031038b317\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\anton\.gradle\caches\transforms-3\8dc37d6bf4d8e19301fb3504251c1dc2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\anton\.gradle\caches\transforms-3\8dc37d6bf4d8e19301fb3504251c1dc2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

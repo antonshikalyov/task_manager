@@ -1,0 +1,13 @@
+com.example.task_manager.app-core-1.6.0-0 C:\Users\anton\.gradle\caches\transforms-3\4e6b31aba0585c520842e6803b7d6bb9\transformed\core-1.6.0\res
+com.example.task_manager.app-jetified-annotation-experimental-1.1.0-1 C:\Users\anton\.gradle\caches\transforms-3\8dc37d6bf4d8e19301fb3504251c1dc2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.task_manager.app-jetified-window-1.0.0-beta04-2 C:\Users\anton\.gradle\caches\transforms-3\9309544c99a242cad959bc5c13746e32\transformed\jetified-window-1.0.0-beta04\res
+com.example.task_manager.app-jetified-window-java-1.0.0-beta04-3 C:\Users\anton\.gradle\caches\transforms-3\fc09ec26dcb7ffbec2f1328d8eb6f285\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.task_manager.app-debug-4 C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\debug\res
+com.example.task_manager.app-main-5 C:\Users\anton\AndroidStudioProjects\task_manager\android\app\src\main\res
+com.example.task_manager.app-pngs-6 C:\Users\anton\AndroidStudioProjects\task_manager\build\app\generated\res\pngs\debug
+com.example.task_manager.app-resValues-7 C:\Users\anton\AndroidStudioProjects\task_manager\build\app\generated\res\resValues\debug
+com.example.task_manager.app-rs-8 C:\Users\anton\AndroidStudioProjects\task_manager\build\app\generated\res\rs\debug
+com.example.task_manager.app-mergeDebugResources-9 C:\Users\anton\AndroidStudioProjects\task_manager\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.task_manager.app-mergeDebugResources-10 C:\Users\anton\AndroidStudioProjects\task_manager\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.task_manager.app-merged_res-11 C:\Users\anton\AndroidStudioProjects\task_manager\build\app\intermediates\merged_res\debug
+com.example.task_manager.app-packaged_res-12 C:\Users\anton\AndroidStudioProjects\task_manager\build\sqflite\intermediates\packaged_res\debug
